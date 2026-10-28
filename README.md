@@ -223,6 +223,3 @@ Converting infix to postfix with a stack removes the need to manage operator hie
 
 ---
 
-## License
-
-This project is intended for educational use. Add a license of your choice (for example, MIT) before publishing.
