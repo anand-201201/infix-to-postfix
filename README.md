@@ -213,7 +213,7 @@ These are behaviors of the current implementation that you should be aware of:
 
 ## Conclusion
 
-Converting infix to postfix with a stack removes the need to manage operator hierarchy and parentheses at evaluation time. The resulting Postfix String Format (PSF) can be executed by a compiler or interpreter through a simple sequential stack traversal in linear **O(n)** time.
+Converting infix to postfix with a stack removes the need to manage operator hierarchy and parentheses at evaluation time. The resulting Postfix String Format (PSF) can be executed by a compiler or interpreter through a simple sequential stack traversal in linear time.
 
 ---
 
