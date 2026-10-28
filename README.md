@@ -210,12 +210,6 @@ These are behaviors of the current implementation that you should be aware of:
 - Pass the stack and buffers as parameters or a struct instead of using globals.
 - Add a `Makefile` and unit tests.
 
-## Complexity
-
-| Measure | Value |
-|---------|-------|
-| Time | **O(n)**, each character is pushed and popped at most once |
-| Space | **O(n)**, stack and output buffer |
 
 ## Conclusion
 
